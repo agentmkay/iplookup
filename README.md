@@ -1,2 +1,4 @@
-# iplookup
-A fast &amp; simple IP lookup tool written in Golang.
+## IPlookup
+
+Simple just run the following commands
+`go run main.go <ip>`
